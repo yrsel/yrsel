@@ -4,17 +4,17 @@
 <a  href="https://rustic-garage-6b3.notion.site/bd14abd6d54f43a99eb82e46c6ac855a">
 <img  src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 -->
-
+<div>
 <a  href="https://solved.ac/studyathome"><img  align="right"  src="http://mazandi.herokuapp.com/api?handle=studyathome&theme=dark"/></a>
 
-<b>  반갑습니다, 🤓</b>
+<b> 🍀 반갑습니다 🍀</b>
 
-<div>  <b> 🙌🏻 Introduction </b>  </div>
+🌱 𝐴𝑁𝐷𝑅𝑂𝐼𝐷 👨🏻‍💻
 
 <br/>
-🌱 ANDROID STUDY
-<br/><br/>
-👨🏻‍💻 새로운 경험을 추구하는 주니어 엔지니어입니다.
+<a href="https://velog.io/@xxknu88"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xxknu88"/></a>
+
+</div>
 
 ---
 
