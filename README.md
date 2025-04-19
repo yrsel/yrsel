@@ -5,13 +5,24 @@
 <img  src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 -->
 <div>
-<a  href="https://solved.ac/studyathome"><img  align="right"  src="http://mazandi.herokuapp.com/api?handle=studyathome&theme=dark"/></a>
+
+  <!--
+<a  href="https://solved.ac/studyathome"><img align="right" src="http://mazandi.herokuapp.com/api?handle=studyathome&theme=dark"/></a>
+-->
+<a href="https://solved.ac/studyathome"><img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=studyathome"/></a>
+<a href="https://leetcard.jacoblin.cool/yrsel"><img align="right" width="350px" src="https://leetcard.jacoblin.cool/yrsel?border=0&radius=20&theme=nord"/></a>
+
+<!--
+![](https://leetcard.jacoblin.cool/yrsel?border=0&radius=20&theme=nord)
+-->
+
 
 <b> 🍀 반갑습니다 🍀</b>
 
 🌱 𝐴𝑁𝐷𝑅𝑂𝐼𝐷 👨🏻‍💻
 
 <br/>
+
 <a href="https://velog.io/@xxknu88"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xxknu88"/></a>
 
 </div>
@@ -27,11 +38,9 @@
 -->
 
 <img  src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/><img  src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
-<img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-<img  src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
-<img  src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/><img  src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
-<img  src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img  src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img  src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img  src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 <img  src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<img  src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
